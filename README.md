@@ -9,3 +9,5 @@ Implementation of a simple chroma key (green/blue screen) algorithm with MATLAB.
 Example:
 
 ![Alt text](img.png?raw=true "Title")
+
+Test images : http://www.alphamatting.com/
